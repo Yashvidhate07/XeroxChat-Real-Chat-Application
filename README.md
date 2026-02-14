@@ -670,7 +670,7 @@ ISC - See LICENSE file for details
 
 ## Author
 
-**Mehedi Islam Ripon**
+**Yash Ramdas Vidhate**
 
 ### Contributions & Support
 
